@@ -1,0 +1,23 @@
+
+.brand_btn{
+    background-color: rgb(227 37 38);
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    border: none;
+    color: white;
+    border-radius: 2rem;
+}
+
+.brand_btn:hover{
+    background-color: rgb(163, 31, 32);
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    border: none;
+    color: white;
+}
+
+.btn-block {
+    width: 100%;
+}
